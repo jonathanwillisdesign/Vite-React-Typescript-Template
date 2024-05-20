@@ -1,0 +1,24 @@
+{
+  "color": {
+    "primitive": {
+      "violet": {
+        "$type": "color",
+        "$value": "#7c3aed"
+      },
+      "rose": {
+        "$type": "color",
+        "$value": "#e11d48"
+      }
+    },
+    "semantic": {
+      "primary": {
+        "$type": "color",
+        "$value": "{color.primitive.violet}"
+      },
+      "secondary": {
+        "$type": "color",
+        "$value": "{color.primitive.rose}"
+      }
+    }
+  }
+}
